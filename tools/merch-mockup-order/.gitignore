@@ -1,0 +1,3 @@
+# Derived signature cache, keyed on image URL hash. Pure speed optimisation for
+# re-runs, regenerates on demand, and goes stale whenever Printful republishes.
+.sigcache/
