@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-16",
+  "updated": "2026-10-17",
   "note": "Auto-refreshed daily by follower-updater (headless browser). Do not hand-edit.",
   "platforms": {
     "tiktok": 2165,
-    "instagram": 491,
+    "instagram": 505,
     "facebook": 618,
-    "youtube": 143
+    "youtube": 199
   }
 }
